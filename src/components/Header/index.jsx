@@ -14,8 +14,8 @@ function LoggedInComponent() {
     <Link to="/signup">
           <Img
             className="ml-[2rem] sm:hidden mb-0.5 md:ml-[0] ml-[4px] w-[50px]"
-            src="../images/register_icon.svg"
-            alt="search"
+            src="../images/Register_icon.svg"
+            alt="register"
 
           />
           </Link>
