@@ -2,8 +2,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 import { Button, Img, Line, Text } from "components";
-import { FlashAuto } from "@material-ui/icons";
-//import {isLoggedIn} from "BlogsData";
 
 const isLoggedIn = JSON.parse(localStorage.getItem("login"));
 
